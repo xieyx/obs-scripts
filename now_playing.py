@@ -7,7 +7,7 @@
 # version           : 0.1
 # usage             : python now_playing.py
 # dependencies      : - Python 3.6 (https://www.python.org/)
-#                   :   - biplist
+#                   : - biplist
 # notes             : Follow this step for this script to work:
 #                   : Python:
 #                   :   1. Install python (v3.6 and 64 bits, this is important)
