@@ -17,3 +17,7 @@ Now Playing is an OBS script that will update a Text Source with the current son
 >   6. Check "Enable"
 >   7. Click the "Python Settings" rab
 >   8. Select your python install path
+
+
+Support:
+- netease 163music
