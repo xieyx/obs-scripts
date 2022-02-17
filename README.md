@@ -8,6 +8,7 @@ Now Playing is an OBS script that will update a Text Source with the current son
 > Python:
 >   1. Install python (v3.6+ and 64 bits, this is important)
 >   2. Install biplist (use pip)
+>
 > OBS:
 >   1. Create a GDI+ Text Source with the name of your choice
 >   2. Go to Tools › Scripts
